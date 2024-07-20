@@ -1,0 +1,7 @@
+Flask
+gunicorn
+requests
+prometheus_client
+python-dotenv
+pandas
+aiohttp
